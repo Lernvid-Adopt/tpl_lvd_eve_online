@@ -1,0 +1,16 @@
+﻿#content_outer {
+	float:left;
+	width: 99.8%;
+	margin:0;
+}
+#content {
+	width: auto;
+}
+#top {
+	width: auto;
+	margin:10px 0 10px 7px;
+}
+#user_modules1 {
+	width: 99%;
+	margin:10px 0 10px 0;
+}
